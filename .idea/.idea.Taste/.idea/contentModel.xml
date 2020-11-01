@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nelson\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Nelson\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_Taste.883252973.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Nelson\AppData\Roaming\JetBrains\Rider2020.3\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\Nelson\AppData\Roaming\JetBrains\Rider2020.3\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Nelson\AppData\Roaming\JetBrains\Rider2020.3\javascript\extLibs\http_cdn.datatables.net_v_bs4_dt-1.10.22_datatables.css" t="IncludeRecursive" />
+    <e p="C:\Users\Nelson\AppData\Roaming\JetBrains\Rider2020.3\javascript\extLibs\http_cdn.datatables.net_v_bs4_dt-1.10.22_datatables.js" t="IncludeRecursive" />
+    <e p="C:\Users\Nelson\AppData\Roaming\JetBrains\Rider2020.3\javascript\extLibs\http_cdn.jsdelivr.net_npm_sweetalert2@10.js" t="IncludeRecursive" />
+    <e p="C:\Users\Nelson\AppData\Roaming\JetBrains\Rider2020.3\javascript\extLibs\http_cdn.tiny.cloud_1_8dv5lmby7ejchyywt7mhaesborajq8sb9gkuh77v60t5hgc8_tinymce_5_tinymce.js" t="IncludeRecursive" />
+    <e p="C:\Users\Nelson\AppData\Roaming\JetBrains\Rider2020.3\javascript\extLibs\http_cdnjs.cloudflare.com_ajax_libs_jquery-timepicker_1.10.0_jquery.timepicker.css" t="IncludeRecursive" />
+    <e p="C:\Users\Nelson\AppData\Roaming\JetBrains\Rider2020.3\javascript\extLibs\http_cdnjs.cloudflare.com_ajax_libs_jquery-timepicker_1.10.0_jquery.timepicker.js" t="IncludeRecursive" />
+    <e p="C:\Users\Nelson\AppData\Roaming\JetBrains\Rider2020.3\javascript\extLibs\http_cdnjs.cloudflare.com_ajax_libs_jqueryui_1.12.1_jquery-ui.css" t="IncludeRecursive" />
+    <e p="C:\Users\Nelson\AppData\Roaming\JetBrains\Rider2020.3\javascript\extLibs\http_cdnjs.cloudflare.com_ajax_libs_jqueryui_1.12.1_jquery-ui.js" t="IncludeRecursive" />
+    <e p="C:\Users\Nelson\AppData\Roaming\JetBrains\Rider2020.3\javascript\extLibs\http_cdnjs.cloudflare.com_ajax_libs_toastr.js_2.1.4_toastr.css" t="IncludeRecursive" />
+    <e p="C:\Users\Nelson\AppData\Roaming\JetBrains\Rider2020.3\javascript\extLibs\http_cdnjs.cloudflare.com_ajax_libs_toastr.js_2.1.4_toastr.min.js" t="IncludeRecursive" />
+    <e p="C:\Users\Nelson\AppData\Roaming\JetBrains\Rider2020.3\javascript\extLibs\http_kit.fontawesome.com_81dd6e239c.js" t="IncludeRecursive" />
+    <e p="D:\Data Nelson\Development\Curso ASP .NET Core 3.1\Razor Pages Proyects\Taste" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Taste" t="IncludeRecursive">
+        <e p="app.db" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="Areas" t="Include">
+          <e p="Identity" t="Include">
+            <e p="Pages" t="Include">
+              <e p="_ViewStart.cshtml" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Taste.AssemblyInfo.cs" t="Include" />
+              <e p="Taste.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pages" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Admin" t="Include" />
+          <e p="Customer" t="Include">
+            <e p="Cart" t="Include" />
+            <e p="Home" t="Include" />
+          </e>
+          <e p="Error.cshtml" t="Include" />
+          <e p="Error.cshtml.cs" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+          <e p="Index.cshtml.cs" t="Include" />
+          <e p="Privacy.cshtml" t="Include" />
+          <e p="Privacy.cshtml.cs" t="Include" />
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="_LoginPartial.cshtml" t="Include" />
+            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Taste.csproj" t="IncludeRecursive" />
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="site.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="images" t="Include">
+            <e p="dust_scratches.png" t="Include" />
+            <e p="lawn_leaf.jpg" t="Include" />
+            <e p="Menu Items" t="Include">
+              <e p="10a93395-df3c-4081-875d-7fafd2e4a376.jpg" t="Include" />
+              <e p="39046daf-c778-485f-b3cc-7c1baa17d92a.jpg" t="Include" />
+              <e p="5300164d-05be-492d-af4c-349e99c09334.jpg" t="Include" />
+              <e p="5729bd9e-7a36-45d9-a517-1a0dc0de9063.jpg" t="Include" />
+              <e p="602006ae-ebc0-4aec-9a9b-9947efa2d8f1.jpg" t="Include" />
+              <e p="785ec262-a30b-4321-8f86-5359df8d9c17.jpg" t="Include" />
+              <e p="7e6093ce-baef-4960-a8e2-38bea99c5801.jpg" t="Include" />
+              <e p="867d6c7b-7ab4-44cd-ad75-6bc38e3e8b35.jpg" t="Include" />
+              <e p="ab90e0fe-ee3d-4ed8-bdab-c6234cced78b.jpg" t="Include" />
+              <e p="afda75d9-fe40-4b87-8b2e-00c8b42d3395.jpeg" t="Include" />
+              <e p="b88e0349-3c29-42f9-ab74-559e8d78e398.jpg" t="Include" />
+              <e p="bc6628f6-ddfe-4384-a35d-2e893677124c.jpg" t="Include" />
+              <e p="c19dca35-1849-48a4-aa78-31925f3916f3.jpg" t="Include" />
+              <e p="e29d406d-e814-4b60-8825-801ae11df378.jpg" t="Include" />
+            </e>
+            <e p="mild.png" t="Include" />
+            <e p="spicy.png" t="Include" />
+            <e p="verySpicy.png" t="Include" />
+          </e>
+          <e p="js" t="Include">
+            <e p="site.js" t="Include" />
+          </e>
+          <e p="lib" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p="dist" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap-grid.css" t="Include" />
+                  <e p="bootstrap-grid.css.map" t="Include" />
+                  <e p="bootstrap-grid.min.css" t="Include" />
+                  <e p="bootstrap-grid.min.css.map" t="Include" />
+                  <e p="bootstrap-reboot.css" t="Include" />
+                  <e p="bootstrap-reboot.css.map" t="Include" />
+                  <e p="bootstrap-reboot.min.css" t="Include" />
+                  <e p="bootstrap-reboot.min.css.map" t="Include" />
+                  <e p="bootstrap.css" t="Include" />
+                  <e p="bootstrap.css.map" t="Include" />
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="bootstrap.min.css.map" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="bootstrap.bundle.js" t="Include" />
+                  <e p="bootstrap.bundle.js.map" t="Include" />
+                  <e p="bootstrap.bundle.min.js" t="Include" />
+                  <e p="bootstrap.bundle.min.js.map" t="Include" />
+                  <e p="bootstrap.js" t="Include" />
+                  <e p="bootstrap.js.map" t="Include" />
+                  <e p="bootstrap.min.js" t="Include" />
+                  <e p="bootstrap.min.js.map" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE" t="Include" />
+            </e>
+            <e p="jquery" t="Include">
+              <e p="dist" t="Include">
+                <e p="jquery.js" t="Include" />
+                <e p="jquery.min.js" t="Include" />
+                <e p="jquery.min.map" t="Include" />
+              </e>
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+            <e p="jquery-validation" t="Include">
+              <e p="dist" t="Include">
+                <e p="additional-methods.js" t="Include" />
+                <e p="additional-methods.min.js" t="Include" />
+                <e p="jquery.validate.js" t="Include" />
+                <e p="jquery.validate.min.js" t="Include" />
+              </e>
+              <e p="LICENSE.md" t="Include" />
+            </e>
+            <e p="jquery-validation-unobtrusive" t="Include">
+              <e p="jquery.validate.unobtrusive.js" t="Include" />
+              <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Taste.DataAccess" t="IncludeRecursive">
+        <e p="ApplicationDbContext.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Data" t="Include">
+          <e p="Initializer" t="Include" />
+          <e p="Repository" t="Include">
+            <e p="CategoryRepository.cs" t="Include" />
+            <e p="IRepository" t="Include">
+              <e p="ICategoryRepository.cs" t="Include" />
+              <e p="IRepository.cs" t="Include" />
+              <e p="IUnitOfWork.cs" t="Include" />
+            </e>
+            <e p="Repository.cs" t="Include" />
+            <e p="UnitOfWork.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="00000000000000_CreateIdentitySchema.cs" t="Include" />
+          <e p="00000000000000_CreateIdentitySchema.Designer.cs" t="Include" />
+          <e p="ApplicationDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Taste.DataAccess.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Taste.DataAccess.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Taste.Models" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Category.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="Taste.Models.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Taste.Models.csproj" t="IncludeRecursive" />
+        <e p="ViewModels" t="Include" />
+      </e>
+      <e p="Taste.sln" t="IncludeFlat" />
+      <e p="Taste.Utility" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="Taste.Utility.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Taste.Utility.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
